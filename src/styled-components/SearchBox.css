@@ -1,0 +1,20 @@
+.SearchBox {
+  margin-bottom: 2rem;
+}
+
+.SearchBoxInput {
+  padding: 4px 12px;
+  border: 1px solid #aaa;
+  border-radius: 15px 50%;
+  -webkit-border-radius: 15px 50%;
+  -moz-border-radius: 15px 50%;
+  -ms-border-radius: 15px 50%;
+  -o-border-radius: 15px 50%;
+}
+
+.SearchBoxInput:focus-visible {
+  outline: none;
+}
+.SearchBoxNoResult {
+  margin-top: 10px;
+}

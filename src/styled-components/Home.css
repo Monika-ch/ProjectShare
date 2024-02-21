@@ -1,0 +1,25 @@
+.Home {
+  margin: 3em;
+}
+
+.HomeHeader {
+  text-align: left;
+  margin-bottom: 2em;
+}
+
+.Category {
+  margin-top: 1em;
+  margin-bottom: 5.5em;
+}
+
+.Category h2 {
+  margin-bottom: 1.3em;
+}
+
+.Home .LoadMoreButton {
+  border: none;
+  background: none;
+  outline: none;
+  color: #0d6efd;
+  text-decoration: underline;
+}
